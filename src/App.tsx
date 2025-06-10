@@ -3,7 +3,7 @@ function App() {
   
   return (
     <>
-      <h1>Hello React</h1>
+      <h1>Practical 22: Hello React + Vite from screatch</h1>
       <h2>Name: Nikhil Kiritbhai Prajapati</h2>
       <p>Hii,my name is Nikhil and I am  React traniee at simform</p>
       <a href="mailto:nikhil.prajapati@simform.dom">Email: nikhil.prajapati@simformsolutions.com</a>
